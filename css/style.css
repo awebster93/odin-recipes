@@ -1,0 +1,23 @@
+#title{
+    color: #70FFBE;
+    background-color: #FF7F70;
+    text-align: center;
+}
+
+#mainImage{
+    width: 50%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.parent{
+    color: #5CDB95;
+    background-color: #05386B;
+}
+
+.child{
+    color: #05386B;
+    background-color: #5CDB95;
+}
